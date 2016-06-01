@@ -6,9 +6,13 @@ color:
   saturation: 0.5116734725888819
   rhythmicContrast: 0.5019219524692744
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Tick Talking
+author:
+  name: Anthony Lazzaro
+  email: anthonylazzaro@gmail.com
+  url: anthonylazzaro.com
